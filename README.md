@@ -8,7 +8,7 @@ The **Detection Lab** project created a controlled environment to simulate and d
 
 ### Skills Learned
 
-- Advanced understanding of **SIEM concepts** and their practical applications.
+- Advanced understanding of **SIEM concepts** and their practical applications. 
 - Proficiency in analyzing and interpreting **network and system logs**.
 - Ability to generate and identify **attack signatures** and patterns.
 - Enhanced knowledge of **network protocols** and associated vulnerabilities.
